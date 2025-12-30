@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Animal Mandi",
+  "description": "A comprehensive marketplace for buying and selling livestock, pets, and poultry, featuring AI-powered assistance for breed identification and market pricing.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
